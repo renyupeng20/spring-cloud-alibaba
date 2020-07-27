@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5747d062-17eb-42f2-b933-e5dcdc6d0f74" name="Default Changelist" comment="" />
+    <list default="true" id="5747d062-17eb-42f2-b933-e5dcdc6d0f74" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-consumer/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-consumer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-consumer/src/main/java/com/example/consumer/NacosConsumerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-consumer/src/main/java/com/example/consumer/controller/ConsumerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-consumer/src/main/java/com/example/consumer/feign/ConsumerFeign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-consumer/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-consumer/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-provider/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-provider/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-provider/src/main/java/com/example/provider/NacosProviderApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-provider/src/main/java/com/example/provider/controller/ProviderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-provider/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nacos-provider/src/main/resources/bootstrap.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sping-cloud-nacos.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +36,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -24,6 +49,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1fFbWEf9xC3koyD8XG6SndPnKI5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -79,7 +105,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595816817339</updated>
-      <workItem from="1595816820826" duration="11824000" />
+      <workItem from="1595816820826" duration="12577000" />
     </task>
     <servers />
   </component>
