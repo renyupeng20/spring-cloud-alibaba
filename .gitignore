@@ -6,3 +6,5 @@
 .idea/**
 *.iml
 lib/
+/nacos-provider/target/
+/nacos-consumer/target/
