@@ -1,4 +1,8 @@
 /target/
-.idea
+/.project
+/.settings
+/.classpath
+/.factorypath
+.idea/**
 *.iml
-target
+lib/
